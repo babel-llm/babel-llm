@@ -4,8 +4,6 @@
 
 [Yiran Zhao](https://zhaoyiran924.github.io/) | [Chaoqun Liu](https://www.linkedin.com/in/chaoqun-liu/) | [Yue Deng](https://ntudy.github.io/) | [Jiahao Ying](https://yingjiahao14.github.io/) | Mahani Aljunied | [Zhaodonghui Li](https://mlxdb.github.io/author/li-zhaodonghui/) | [Lidong Bing](https://lidongbing.github.io/research.html/) | [Hou Pong Chan](https://kenchan0226.github.io/) | [Yu Rong](https://royrong.me/) | [Deli Zhao](https://zhaodeli.github.io/) | [Wenxuan Zhang*](https://isakzhang.github.io)  (Corresponding Author)
 
-**Affiliation:** DAMO Academy, Alibaba Group
-
 ## Links
 
 - 📄 [Paper](https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf)
@@ -28,7 +26,7 @@ To address this disparity, we introduce **Babel**, a multilingual LLM that cover
 
 Unlike traditional continue pretraining approaches, Babel expands its parameter count through a layer extension technique that elevates Babel's performance ceiling. We introduce two variants:
 
-- **Babel-9B**: Designed for efficient single-GPU inference and fine-tuning.
+- **Babel-9B**: Designed for efficient inference and fine-tuning.
 - **Babel-83B**: Sets a new standard for open multilingual LLMs.
 
 Extensive evaluations on multilingual tasks demonstrate its superior performance compared to open LLMs of comparable size. Using existing supervised fine-tuning datasets, Babel achieves remarkable performance, with Babel-9B-Chat leading among 10B-sized LLMs and Babel-83B-Chat setting a new standard for open LLMs, performing comparably to GPT-4o on certain tasks.
