@@ -113,11 +113,14 @@ We thank Guanzheng Chen for assisting with the training codebase. Special thanks
 If you find our project useful, please cite it using:
 
 ```bibtex
-@article{babel2025,
-  author = {Yiran Zhao and Chaoqun Liu and Yue Deng and Jiahao Ying and Mahani Aljunied and Zhaodonghui Li and Lidong Bing and Hou Pong Chan and Yu Rong and Deli Zhao and Wenxuan Zhang},
-  title = {Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers},
-  year = {2025},
-  note = {Available online: \url{https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf}}
+@misc{zhao2025babelopenmultilinguallarge,
+      title={Babel: Open Multilingual Large Language Models Serving Over 90% of Global Speakers}, 
+      author={Yiran Zhao and Chaoqun Liu and Yue Deng and Jiahao Ying and Mahani Aljunied and Zhaodonghui Li and Lidong Bing and Hou Pong Chan and Yu Rong and Deli Zhao and Wenxuan Zhang},
+      year={2025},
+      eprint={2503.00865},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.00865}, 
 }
 
 ```
