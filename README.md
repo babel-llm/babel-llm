@@ -6,7 +6,7 @@
 
 ## Links
 
-- 📄 [Paper](https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf)
+- 📄 [Paper](https://arxiv.org/pdf/2503.00865)
 - 💻 [GitHub Repository](https://github.com/babel-llm/babel-llm)
 - 🤗 [Hugging Face Models](https://huggingface.co/Tower-Babel)
 
